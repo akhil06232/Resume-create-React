@@ -24,4 +24,4 @@ React Router: Enables navigation between different resume-building sections.
 PDF-lib: Used for generating PDF files from the resume data.
 
 
-Feel free to customize this template based on your specific application details and structure. Replace placeholders like `https://github.com/ravikr126/react-resume-builder-react.git`.
+
